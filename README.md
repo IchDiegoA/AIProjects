@@ -1,7 +1,7 @@
 # 📌 Actividad Formativa: GitHub Copilot
-
 **Autor:** Diego Acevedo  
-**Repositorio:** [AIProjects](https://github.com/IchDiegoA/AIProjects)  
+**Institucion:** INACAP Santiago Centro   
+**Asignatura:** Tendencias de Inteligencia Artificial Aplicada (ETVI02)   
 
 ---
 
@@ -11,7 +11,6 @@ El propósito de esta actividad es explorar las **tendencias emergentes en intel
 ---
 
 ## 🚀 Pasos Realizados
-
 1. Creé una cuenta con el correo de estudiante en GitHub.  
 2. Creé el repositorio `AIProjects` en GitHub.  
 3. Generé el archivo `recommendation_system.py` en Visual Studio Code (aunque despues Github Copilot lo volvio a generar con todo lo que le solicité).  
@@ -26,7 +25,7 @@ El propósito de esta actividad es explorar las **tendencias emergentes en intel
 
 ---
 
-# 📊 Observaciones sobre el código
+## 📊 Observaciones sobre el código
 - Copilot me sugirió usar NearestNeighbors (modelo no supervisado).
 - El ejemplo original utilizaba NeighborsClassifier (modelo supervisado).
 - Diferencia principal:
@@ -35,5 +34,19 @@ El propósito de esta actividad es explorar las **tendencias emergentes en intel
 
 ---
 
-# 📸 Evidencia
-<img width="1920" height="1041" alt="evidencia" src="https://github.com/user-attachments/assets/9b53f012-c299-4014-88fc-a82da20b589f" />
+## 📸 Evidencia
+<img width="1920" height="1041" alt="evidencia" src="https://github.com/user-attachments/assets/9b53f012-c299-4014-88fc-a82da20b589f" />   
+
+> ## 📂 Código fuente
+> El código completo del sistema de recomendación está disponible aquí:  
+> 👉 [recommendation_system.py](recommendation_system.py)
+
+---
+
+## 📌 Conclusión
+Al final, **GitHub Copilot**, al igual que todas las IAs, nos brinda una gran ayuda en la realización de códigos y tareas repetitivas, permitiéndonos generar una base rápidamente.  
+Posteriormente, nosotros podemos modificar y ajustar el código según nuestras necesidades y objetivos específicos.
+
+---
+
+**¡Gracias por revisar este proyecto!**
